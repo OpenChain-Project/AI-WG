@@ -1,0 +1,1 @@
+This work group uses the [LF Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/) per the OpenChain Governing Board and [OpenChain Project Charter](https://charter.openchainproject.org)
