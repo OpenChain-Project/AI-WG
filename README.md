@@ -18,6 +18,8 @@ _TODO: description of the group_
 
 ## Deliverables
 
+All deliverables are licensed under the [Creative Commons Zero License version 1.0 Universal (CC0 1.0)](LICENSE) per the [OpenChain Project Charter](https://charter.openchainproject.org). Details on how to contribute to the work is defined in the [CONTRIBUTING.md](CONTRIBUTING.md).
+
 - [Artificial Intelligence System Bill of Materials](https://github.com/OpenChain-Project/AI-WG/blob/main/docs/Artificial%20Intelligence%20%20System%20Bill%20of%20Materials%20-%20Compliance%20Management%20Guide%20%20for%20the%20Supply%20Chain%20-%20RFC.docx)
 
 ## Work Group Members
